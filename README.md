@@ -10,3 +10,13 @@ xcodebuild -scheme Tianqi -destination 'platform=iOS Simulator,name=iPhone 17' b
 ```
 无第三方依赖库，也不需要 API Key。
 
+## 效果图
+
+当前天气
+
+![当前天气](screenshots/weather.jpg)
+
+搜索地点
+
+![搜索地点](screenshots/search.jpg)
+
